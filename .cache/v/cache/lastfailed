@@ -1,0 +1,10 @@
+{
+  "interface/thematic_education_test.py::ThematicEducationTest::test_get_all_col_0_title": true,
+  "interface/thematic_education_test.py::ThematicEducationTest::test_get_all_col_1_title": true,
+  "interface/thematic_education_test.py::ThematicEducationTest::test_get_all_col_2_title": true,
+  "interface/thematic_education_test.py::ThematicEducationTest::test_get_all_col_3_title": true,
+  "interface/thematic_education_test.py::ThematicEducationTest::test_get_all_col_4_title": true,
+  "interface/thematic_education_test.py::ThematicEducationTest::test_get_all_col_5_title": true,
+  "interface/thematic_education_test.py::ThematicEducationTest::test_get_all_col_6_title": true,
+  "interface/thematic_education_test.py::ThematicEducationTest::test_get_all_col_7_title": true
+}
