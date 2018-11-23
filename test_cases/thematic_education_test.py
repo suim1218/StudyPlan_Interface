@@ -1,7 +1,7 @@
 import requests
 import unittest
 from nose_parameterized import parameterized
-from interface.login import login_success
+from test_cases.login import login_success
 from utils.read_config import read_config
 
 

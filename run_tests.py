@@ -1,12 +1,12 @@
 import time, sys
 from HTMLTestRunner import HTMLTestRunner
 import unittest
-sys.path.append('./interface')
+sys.path.append('./test_cases')
 sys.path.append('./db_fixture')
 
 
-# 指定测试用例为当前文件夹下的 interface 目录
-test_dir = './interface'
+# 指定测试用例为当前文件夹下的 test_cases 目录
+test_dir = './test_cases'
 discover = unittest.defaultTestLoader.discover(test_dir, pattern='*_test.py')
 
 if __name__ == "__main__":
